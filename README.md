@@ -10,7 +10,7 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 ### Bot
 
 Offres GalackGen:
-*   ✉️ Vous pouvez crée vos propre conmpte
+*   ✉️ Vous pouvez crée vos propre compte
 *   🇫🇷 Marche que sur un seul salon pour évité le spam
 *   ⚙️ Chaque compte généré et directement supprimer
 
