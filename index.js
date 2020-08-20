@@ -66,13 +66,10 @@ bot.on("message", message => {
                     timestamp: new Date(),
                     footer: {
                         icon_url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                            "https://i.imgur.com/Bl8zjHy.png",
                         text: "Développé par GalackQSM#7926"
                     },
-                    thumbnail: {
-                        url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
-                    },
+                    image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
                         url: "https://discord.gg/XH7zQ8s",
@@ -132,13 +129,10 @@ bot.on("message", message => {
                             timestamp: new Date(),
                             footer: {
                                 icon_url:
-                                    "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                                    "https://i.imgur.com/Bl8zjHy.png",
                                 text: "Développé par GalackQSM#7926"
                             },
-                            thumbnail: {
-                                url:
-                                    "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
-                            },
+                            image: {url:"https://i.imgur.com/XuVrWQh.png"},
                             author: {
                                      name: botname + " - générateur de compte",
                                      url: "https://discord.gg/XH7zQ8s",
