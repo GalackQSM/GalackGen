@@ -34,7 +34,7 @@ const chalk = require('chalk');
 
   console.log(`Statistiques globales : \n\nLe bot a un total de ${bot.guilds.cache.size} serveurs. \nPour un total de ${bot.users.cache.size} membres.`)
   console.log("Connecté en tant que " + bot.user.id + " | Prefix : " + prefix1 + " | Nombre de Serveurs "+ bot.guilds.cache.size +" | Nombres de salons "+ bot.channels.cache.size +" | Utilisateur totaux "+ bot.users.cache.size +" | Nombre d'emojis totaux "+ bot.emojis.cache.size +'');
-  bot.user.setActivity("+help - sur 1654 serveurs");
+  bot.user.setActivity("+help - GalackGen");
 });
 
 bot.on("message", message => {
