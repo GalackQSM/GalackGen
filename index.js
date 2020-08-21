@@ -27,7 +27,7 @@ const chalk = require('chalk');
   console.log((chalk.yellow(`                                                               Crée par GalackQSM#7926 !`)));  
   console.log((chalk.yellow(`                                                                © 2020 GalackQSM, Inc.`))); 
   console.log("");                                   
-  console.log((chalk.red(`                                                         Discord: https://discord.gg/cAmtjYj`)));   
+  console.log((chalk.red(`                                                         Discord: https://discord.gg/XH7zQ8s`)));   
   console.log((chalk.red(`                                                       Twitter: https://twitter.com/Galack_QSM`)));   
   console.log((chalk.red(`                                                        Github: https://github.com/GalackQSM`)));   
   console.log("");                                  
