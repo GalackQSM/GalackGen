@@ -312,7 +312,7 @@ bot.on("message", message => {
                 return message.channel.send({ embed });
             }
             else {
-            message.channel.send("@everyone\nRestock de compte: **" + args[0] + "**\nNombre de compte restock: **" + args[1] + " compte(s)**\nRestock par " + "<@" + message.author.id +">");
+            message.channel.send("@everyone\n● Restock de compte: **" + args[0] + "**\n● Nombre de compte restock: **" + args[1] + " compte(s)**\n● Restock par: " + "<@" + message.author.id +">");
             }
         }
     }
