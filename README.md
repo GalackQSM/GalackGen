@@ -18,7 +18,7 @@ Offres GalackGen:
 
 * gen (Nom du service) - Générer des comptes
 * create (Nom du service) - Créer un service
-* restock (Nom du service) - Notifier les restocks de compte
+* restock (Nom du service) (Nombre de compte) - Notifier les restocks de compte
 * add (mail:pass) (Nom du service) - Ajouter des comptes
 * stats - Afficher les statistiques de GalackGen
 
