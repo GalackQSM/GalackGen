@@ -194,7 +194,7 @@ bot.on("message", message => {
                         },
                         {
                             name: 'Notifier les restocks de compte',
-                            value: "Exemple: `" + prefix1 +"restock <Nom du service>`",
+                            value: "Exemple: `" + prefix1 +"restock <Nom du service> <Nombre de compte>`",
                         },
                         {
                             name: 'Ajouter des comptes',
@@ -307,8 +307,12 @@ bot.on("message", message => {
             {
                 return message.channel.send({ embed });
             }
+            if (!args[1])
+            {
+                return message.channel.send({ embed });
+            }
             else {
-            message.channel.send("@everyone Service " + args[0] + " a été restock par " + "<@" + message.author.id +">");
+            message.channel.send("@everyone\nRestock de compte: **" + args[0] + "**\nNombre de compte restock: **" + args[1] + " compte(s)**\nRestock par " + "<@" + message.author.id +">");
             }
         }
     }
