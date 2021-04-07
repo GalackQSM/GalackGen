@@ -73,7 +73,7 @@ bot.on("message", message => {
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
-                        url: "https://discord.gg/cGt8e7YPfX",
+                        url: "https://github.com/GalackQSM/GalackGen",
                         icon_url: bot.displayAvatarURL
                     },
                     fields: []
@@ -105,7 +105,7 @@ bot.on("message", message => {
                                     },
                                     author: {
                                         name: botname + " - générateur de compte",
-                                        url: "https://discord.gg/cGt8e7YPfX",
+                                        url: "https://github.com/GalackQSM/GalackGen",
                                         icon_url: bot.displayAvatarURL
                                     },
                                     fields: []
@@ -136,7 +136,7 @@ bot.on("message", message => {
                             image: {url:"https://i.imgur.com/XuVrWQh.png"},
                             author: {
                                      name: botname + " - générateur de compte",
-                                     url: "https://discord.gg/cGt8e7YPfX",
+                                     url: "https://github.com/GalackQSM/GalackGen",
                                 icon_url: bot.displayAvatarURL
                             },
                             fields: []
@@ -151,7 +151,7 @@ bot.on("message", message => {
             if (command === "stats") {
                 const embed = {
                     title: "Stats de " + botname,
-                    description: "Nombre total d'utilisateurs: `" + bot.users.cache.size + " membres`\nNombre total de salon: `" + bot.channels.cache.size+ " salons`\nNombre total d'émoji: `" + bot.emojis.cache.size+ " émojis`\nNombre total de serveur: `" + bot.guilds.cache.size+ " serveur(s)`",
+                    description: "Nombre total d'utilisateurs: `" + bot.users.cache.size + " membres`\nNombre total de salon: `" + bot.channels.cache.size+ " salons`\nNombre total d'émoji: `" + bot.emojis.cache.size+ " émojis`\nNombre total de serveur: `" + bot.guilds.cache.size+ " serveur(s)`\nCrée par GalackQSM#0895",
                     color: 0xff033d,
                     timestamp: new Date(),
                     footer: {
@@ -175,10 +175,10 @@ bot.on("message", message => {
                 const embed = {
                     color: 0xff033d,
                     title: botname + ' - générateur de compte',
-                    url: 'https://discord.gg/cGt8e7YPfX',
+                    url: 'https://github.com/GalackQSM/GalackGen',
                     author: {
                         name: 'Liste des commandes',
-                        url: 'https://discord.gg/cGt8e7YPfX',
+                        url: 'https://github.com/GalackQSM/GalackGen',
                     },
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
 
@@ -240,7 +240,7 @@ bot.on("message", message => {
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
-                        url: "https://discord.gg/cGt8e7YPfX",
+                        url: "https://github.com/GalackQSM/GalackGen",
                         icon_url: bot.displayAvatarURL
                     },
                     fields: []
@@ -272,7 +272,7 @@ bot.on("message", message => {
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
-                        url: "https://discord.gg/cGt8e7YPfX",
+                        url: "https://github.com/GalackQSM/GalackGen",
                         icon_url: bot.displayAvatarURL
                     },
                     fields: []
@@ -294,7 +294,7 @@ bot.on("message", message => {
                  image: {url:"https://i.imgur.com/XuVrWQh.png"},
                 author: {
                     name: botname + " - générateur de compte ",
-                    url: "https://discord.gg/cGt8e7YPfX",
+                    url: "https://github.com/GalackQSM/GalackGen",
                     icon_url: bot.displayAvatarURL
                 },
                 fields: []
