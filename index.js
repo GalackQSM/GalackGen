@@ -73,7 +73,7 @@ bot.on("message", message => {
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
-                        url: "https://github.com/GalackQSM/GalackGen",
+                        url: "https://discord.gg/j6w2dtwyBG",
                         icon_url: bot.displayAvatarURL
                     },
                     fields: []
@@ -105,7 +105,7 @@ bot.on("message", message => {
                                     },
                                     author: {
                                         name: botname + " - générateur de compte",
-                                        url: "https://github.com/GalackQSM/GalackGen",
+                                        url: "https://discord.gg/j6w2dtwyBG",
                                         icon_url: bot.displayAvatarURL
                                     },
                                     fields: []
@@ -136,7 +136,7 @@ bot.on("message", message => {
                             image: {url:"https://i.imgur.com/XuVrWQh.png"},
                             author: {
                                      name: botname + " - générateur de compte",
-                                     url: "https://github.com/GalackQSM/GalackGen",
+                                     url: "https://discord.gg/j6w2dtwyBG",
                                 icon_url: bot.displayAvatarURL
                             },
                             fields: []
@@ -175,10 +175,10 @@ bot.on("message", message => {
                 const embed = {
                     color: 0xff033d,
                     title: botname + ' - générateur de compte',
-                    url: 'https://github.com/GalackQSM/GalackGen',
+                    url: 'https://discord.gg/j6w2dtwyBG',
                     author: {
                         name: 'Liste des commandes',
-                        url: 'https://github.com/GalackQSM/GalackGen',
+                        url: 'https://discord.gg/j6w2dtwyBG',
                     },
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
 
@@ -240,7 +240,7 @@ bot.on("message", message => {
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
-                        url: "https://github.com/GalackQSM/GalackGen",
+                        url: "https://discord.gg/j6w2dtwyBG",
                         icon_url: bot.displayAvatarURL
                     },
                     fields: []
@@ -272,7 +272,7 @@ bot.on("message", message => {
                     image: {url:"https://i.imgur.com/XuVrWQh.png"},
                     author: {
                         name: botname + " - générateur de compte",
-                        url: "https://github.com/GalackQSM/GalackGen",
+                        url: "https://discord.gg/j6w2dtwyBG",
                         icon_url: bot.displayAvatarURL
                     },
                     fields: []
@@ -294,7 +294,7 @@ bot.on("message", message => {
                  image: {url:"https://i.imgur.com/XuVrWQh.png"},
                 author: {
                     name: botname + " - générateur de compte ",
-                    url: "https://github.com/GalackQSM/GalackGen",
+                    url: "https://discord.gg/j6w2dtwyBG",
                     icon_url: bot.displayAvatarURL
                 },
                 fields: []
