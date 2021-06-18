@@ -1,6 +1,6 @@
 <img alt="GalackGen" src="https://i.imgur.com/HKodxPv.png">  
 
-[![](https://img.shields.io/discord/844336373267300352.svg?logo=discord&colorB=7289DA)](https://discord.gg/ZjnGDXGHw7)
+[![](https://img.shields.io/discord/855220196856168459.svg?logo=discord&colorB=7289DA)](https://discord.gg/6czZmmtczp)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
 
@@ -31,7 +31,7 @@ Offres GalackGen:
 Pour restock des comptes, vous pouvez directement les restocks a partir du fichier sans redémarrer votre bot, dans le dossier `comptes`
 ## Liens
 
-*   [Discord](https://discord.gg/XH7zQ8s)
+*   [Discord](https://discord.gg/6czZmmtczp)
 *   [Twitter](https://twitter.com/Galack_QSM)
 *   [Github](https://github.com/GalackQSM/)
 
