@@ -1,6 +1,6 @@
 <img alt="GalackGen" src="https://i.imgur.com/HKodxPv.png">  
 
-[![](https://img.shields.io/discord/855220196856168459.svg?logo=discord&colorB=7289DA)](https://discord.gg/6czZmmtczp)
+[![](https://img.shields.io/discord/875804647699415061.svg?logo=discord&colorB=7289DA)](https://discord.gg/2qHGWtCb2F)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
 
